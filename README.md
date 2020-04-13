@@ -1,6 +1,7 @@
 # CSS_My_Site
 ---
-**NOTE** :  This page has been created using HTML and basic CSS (Basic) only and is a sample project
+**NOTE** :  This page has been created using HTML and basic CSS (Basic) only and is a sample project.
+This has been created to view in laptop or desktop only (Lacks Bootstrap)
 ---
 ---
 ### Contents
